@@ -24,11 +24,11 @@ This project aims to provide valuable insights into various aspects of business 
 **Here is the sql file in which i have done the analysis**  
 **Click here**:-https://github.com/Arijeet2k1/Retail_Business_Performance_Analysis/blob/main/Business_Performance_Analysis.sql
 
-## Conclution 🖋️
+**Conclution** 🖋️  
 **To access the PowerPoint presentation summarizing the analysis.**  
-**Click Here**:- https://github.com/Arijeet2k1/Retail_Business_Performance_Analysis/blob/main/Retail%20Analysis%20Presentation.pdf
+**Click Here**:-https://github.com/Arijeet2k1/Retail_Business_Performance_Analysis/blob/main/Retail%20Analysis%20Presentation.pdf
 
-## Dashboard 📈
+**Dashboard** 📈  
 **Here is the dynamic dashboard that I have created using Power BI based on my analysis**  
 **(Note:- This is just a snapshort of the dashboard as it doesn't allow all users to open the actual dynamic dashboard file)**  
-**Click Here**:- https://github.com/Arijeet2k1/Retail_Business_Performance_Analysis/blob/main/Retail_Analysis_Dashboard.jpg
+**Click Here**:-https://github.com/Arijeet2k1/Retail_Business_Performance_Analysis/blob/main/Retail_Analysis_Dashboard.jpg
