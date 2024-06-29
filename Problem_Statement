@@ -1,0 +1,32 @@
+Sales Performance Analysis
+
+-- 1. What is the total sales amount by month?
+-- 2. Which 5 state has the highest total profit?
+-- 3. How does the sales amount compare between different product categories?
+
+Customer Analysis
+
+-- 1. Who are the top 5 customers by total sales amount?
+-- 2. Extract top 5 customers by average profit?
+-- 3. Which 5 states has the highest number of unique customers?
+
+Time Series Analysis
+
+-- 1. How has the monthly profit changed over time?
+-- 2. How do monthly sales amounts vary by product category
+
+Product Performance
+
+-- 1 What are the top 5 sub-categories by profit?
+-- 2 How does the quantity sold vary by product sub-category?
+
+Quantity Analysis
+
+-- 1. What is the total quantity sold by product category?
+-- 2. Which TOP 3 cities have the highest quantity sold?
+
+Target Achievement Analysis
+
+-- 1. What is the total sales amount vs. target by month?
+-- 2. Which product categories have the highest target achievement rate?
+
