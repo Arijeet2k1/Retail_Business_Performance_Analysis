@@ -15,7 +15,7 @@ Time Series Analysis
 -- 1. How has the monthly profit changed over time?
 -- 2. How do monthly sales amounts vary by product category
 
-Product Performance
+Product Performance Analysis
 
 -- 1 What are the top 5 sub-categories by profit?
 -- 2 How does the quantity sold vary by product sub-category?
